@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1161DF6C2AC7AE9600BA94D8 /* HidingKeyboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1161DF6B2AC7AE9600BA94D8 /* HidingKeyboardExtension.swift */; };
 		118AA4092ABF42D200B60E2A /* AddNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118AA4082ABF42D200B60E2A /* AddNoteViewController.swift */; };
 		118AA40C2ABF668F00B60E2A /* NoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118AA40B2ABF668F00B60E2A /* NoteCell.swift */; };
 		118AA40F2ABF6F7B00B60E2A /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118AA40E2ABF6F7B00B60E2A /* DateExtension.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1161DF6B2AC7AE9600BA94D8 /* HidingKeyboardExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidingKeyboardExtension.swift; sourceTree = "<group>"; };
 		118AA4082ABF42D200B60E2A /* AddNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteViewController.swift; sourceTree = "<group>"; };
 		118AA40B2ABF668F00B60E2A /* NoteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteCell.swift; sourceTree = "<group>"; };
 		118AA40E2ABF6F7B00B60E2A /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			children = (
 				118AA40E2ABF6F7B00B60E2A /* DateExtension.swift */,
 				118AA4102ABF6F8800B60E2A /* FormatterExtension.swift */,
+				1161DF6B2AC7AE9600BA94D8 /* HidingKeyboardExtension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				11D7796E2ABE80BB00006133 /* Note.swift in Sources */,
 				11D779722ABE875400006133 /* NotesTableViewController.swift in Sources */,
 				118AA40C2ABF668F00B60E2A /* NoteCell.swift in Sources */,
+				1161DF6C2AC7AE9600BA94D8 /* HidingKeyboardExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
